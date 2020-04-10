@@ -250,7 +250,7 @@ h1, h2, h3, h4, h5, h6 {
     color: #ffffff;
     font-weight:50%;
     border-radius: 30px;
-    width: 100%;
+    width: 45%;
     max-width: 202px;
     height: 52px;
     text-align: center;
@@ -1016,7 +1016,7 @@ a.animated-button.style2:hover:after {
 #section-slider1 .swiper-slide .slider-content .left p{
 	font-family: 'Poppins-Regular';
 	font-size: 18px;
-	color: #e9ecff;
+	color: white;
 	line-height: 35px;
 	margin-bottom: 35px;
 }
@@ -2733,7 +2733,7 @@ a.animated-button.style2:hover:after {
 	.navbar-1 .product-heading, .navbar-1 .shop-heading {
 		border-bottom: 1px solid #ddd;
 		cursor: pointer;
-		padding: 10px 0;
+		padding: 5px 0;
 		position: relative;
 	}
 	.navbar-1 .product-heading:after, .navbar-1 .shop-heading:after {
