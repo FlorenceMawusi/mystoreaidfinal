@@ -2698,7 +2698,7 @@ a.animated-button.style2:hover:after {
 		padding:80px 0;
 	}
 	#section-download1{
-		padding:80px 0;
+		padding:0px 0;
 	}
 	#section-features3 .item {
 	    padding: 15px 15px;
@@ -2822,9 +2822,9 @@ a.animated-button.style2:hover:after {
 	#section-footer .footer-widget {
 	    padding: 140px 0 30px;
 	}
-	#section-footer .footer-widget .left{
+	/*#section-footer .footer-widget .left{
 		margin-bottom: 20px;
-	}
+	}*/
 	#section-footer .footer-widget .left,
 	#section-footer .footer-widget .right{
 		text-align: center;
@@ -2833,9 +2833,16 @@ a.animated-button.style2:hover:after {
 	    padding: 15px 0;
 	}
 	#section-slider2 .swiper-slide .slider-content .content h1 {
+
 	    font-size: 35px;
 	    margin-bottom: 20px;
 	}
+  #section-footer .footer-widget .left img{
+    max-width: 80% !important;
+  }
+  #section-footer .footer-widget .right {
+    padding-top:0% !important;
+  }
 	#section-features3 {
 	    padding: 80px 0 50px;
 	}
