@@ -1130,7 +1130,7 @@ a.animated-button.style2:hover:after {
  *   4.3 SECTION FEATURES 1  *
  *===========================*/
 .features-wrap{
-	background-image: url(../images/bg-features.jpg);
+	background-image: url(../images/bg-features.webp);
     background-position: bottom;
     background-repeat: no-repeat;
     position: relative;
@@ -1138,7 +1138,7 @@ a.animated-button.style2:hover:after {
 #section-features1 {
     padding: 110px 0;
     margin-bottom: -45px;
-    background-image: url(../images/bg1.jpg);
+    background-image: url(../images/bg1.webp);
     background-position: right;
     background-repeat: no-repeat;
     position: relative;
@@ -2386,7 +2386,7 @@ a.animated-button.style2:hover:after {
  *    05. SECTION FOOTER     *
  *===========================*/
 #section-footer{
-	background-image: url(../images/bg-footer.png);
+	background-image: url(../images/bg-footer.webp);
 	background-repeat: no-repeat;
 	background-position: bottom;
 	background-size: cover;
@@ -3084,7 +3084,7 @@ a.animated-button.style2:hover:after {
  * Scheme 1
  */
 #section-slider1{
-	background-image: url(../images/slider1.jpg);
+	background-image: url(../images/slider1.webp);
     background-size: cover;
     background-position: bottom;
     -webkit-transition: all 0.2s ease-in-out;
@@ -3122,7 +3122,7 @@ a.animated-button.style2:hover:after {
  * Scheme 2
  */
 body.scheme2 #section-slider1{
-	background-image: url('../images/slider1_2.jpg');
+	background-image: url('../images/slider1_2.webp');
 	-webkit-transition: all 0.2s ease-in-out;
 	transition: all 0.2s ease-in-out;
 }
@@ -3132,7 +3132,7 @@ body.scheme2 .bgscheme{
 	transition: all 0.2s ease-in-out;
 }
 body.scheme2 #section-features1 {
-    background-image: url(../images/bg1_2.jpg);
+    background-image: url(../images/bg1_2.webp);
     -webkit-transition: all 0.2s ease-in-out;
 	transition: all 0.2s ease-in-out;
 }
@@ -3159,7 +3159,7 @@ body.scheme2 .navigationscheme{
 	transition: all 0.2s ease-in-out;
 }
 body.scheme2 #section-footer {
-    background-image: url(../images/bg-footer2.png);
+    background-image: url(../images/bg-footer2.webp);
     -webkit-transition: all 0.2s ease-in-out;
 	transition: all 0.2s ease-in-out;
 }
@@ -3168,7 +3168,7 @@ body.scheme2 #section-footer {
  * Scheme 3
  */
 body.scheme3 #section-slider1{
-	background-image: url('../images/slider1_3.jpg');
+	background-image: url('../images/slider1_3.webp');
 	-webkit-transition: all 0.2s ease-in-out;
 	transition: all 0.2s ease-in-out;
 }
@@ -3178,7 +3178,7 @@ body.scheme3 .bgscheme{
 	transition: all 0.2s ease-in-out;
 }
 body.scheme3 #section-features1 {
-    background-image: url(../images/bg1_3.jpg);
+    background-image: url(../images/bg1_3.webp);
     -webkit-transition: all 0.2s ease-in-out;
 	transition: all 0.2s ease-in-out;
 }
@@ -3205,7 +3205,7 @@ body.scheme3 .navigationscheme{
 	transition: all 0.2s ease-in-out;
 }
 body.scheme3 #section-footer {
-    background-image: url(../images/bg-footer3.png);
+    background-image: url(../images/bg-footer3.webp);
     -webkit-transition: all 0.2s ease-in-out;
 	transition: all 0.2s ease-in-out;
 }
@@ -3214,7 +3214,7 @@ body.scheme3 #section-footer {
  * Scheme 4
  */
 body.scheme4 #section-slider1{
-	background-image: url('../images/slider1_4.jpg');
+	background-image: url('../images/slider1_4.webp');
 	-webkit-transition: all 0.2s ease-in-out;
 	transition: all 0.2s ease-in-out;
 }
@@ -3224,7 +3224,7 @@ body.scheme4 .bgscheme{
 	transition: all 0.2s ease-in-out;
 }
 body.scheme4 #section-features1 {
-    background-image: url(../images/bg1_4.jpg);
+    background-image: url(../images/bg1_4.webp);
     -webkit-transition: all 0.2s ease-in-out;
 	transition: all 0.2s ease-in-out;
 }
@@ -3251,7 +3251,7 @@ body.scheme4 .navigationscheme{
 	transition: all 0.2s ease-in-out;
 }
 body.scheme4 #section-footer {
-    background-image: url(../images/bg-footer4.png);
+    background-image: url(../images/bg-footer4.webp);
     -webkit-transition: all 0.2s ease-in-out;
 	transition: all 0.2s ease-in-out;
 }
